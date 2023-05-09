@@ -13,7 +13,7 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.yannicknana.fr/",
-		"https://www.yannicknana.fr/now/",
+		"https://yannicknana.fr/",
+		"https://yannicknana.fr/now/",
 	]
 };
