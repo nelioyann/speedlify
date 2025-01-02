@@ -6,8 +6,7 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.speedlify.dev/",
-		"https://frontendstories.com/",
-		"https://yannicknana.fr/"
+		"https://yannicknana.fr/",
+		"https://yannicknana.fr/now"
 	]
 };
